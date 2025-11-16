@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "worktracker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "892c4615-cbe8-4ed7-815b-1b844d28cc94",
+      "database_name": "work-tracker"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
